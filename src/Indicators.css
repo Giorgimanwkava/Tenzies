@@ -1,0 +1,16 @@
+.current-run-indicator{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10vh;
+    background-color: transparent;
+}
+
+.count-indicator, .timer{
+  min-width: 300px;
+  background-color: #F5F5F5;
+  padding: 0px 20px;
+  border-radius: 5px;
+  text-align: center;
+  margin: 0px 100px;
+}
