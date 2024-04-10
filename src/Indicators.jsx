@@ -5,7 +5,7 @@ export default function Indicators(props){
     return(    
         <div className="current-run-indicator">
             <div className="count-indicator">
-                <h1>Current rolls: {props.rollCount}</h1>
+                <h1>Rolls: {props.rollCount}</h1>
             </div>
             <div className="timer">
                 <h1>Time: {props.time}</h1>
